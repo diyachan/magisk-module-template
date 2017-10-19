@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=miuimodicondisabler
+name=Extra icon disabler for MIUI
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=diya
+description=Disables extra icons included in xiaomi.eu ROMs
 template=1400
