@@ -1,11 +1,3 @@
-# Magisk Module Template
+# miui_mod_icons disabler
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/module_repo.md)
-
-### README.md
-
-This `README.md` can be shown in Magisk Manager. Place any information/changelog/notes you like.
-
-**Please update `README.md` if you want to submit your module to the online repo!**
-
-You can edit your `README.md` within Github's online editor, it also has an preview button! Check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for markdown syntaxes, it's super easy!
+This module will 'disable' the additional unified flat icons that came with custom MIUI roms such as xiaomi.eu and its derivatives like globe-rom
